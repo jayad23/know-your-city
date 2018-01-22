@@ -123,9 +123,9 @@ div #h_menu{
 
 #h_menu a:hover{
   /* text-transform: uppercase; */
-  color:white;
+  color:yellowgreen;
   transition: .2s;
-  border-bottom: 1px solid #FF005E;
+  border-bottom: 1px solid yellowgreen;
   padding-bottom: 8px;
 }
 
