@@ -252,6 +252,18 @@ div#project a{
 
 }
 
+div#project a:hover{
+  color:#FF005E;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Courgette', cursive;
+  padding:9px;
+  background-color: greenyellow;
+  border-radius: 8px 0 8px 0;
+
+}
+
 /* STYLES FOR INFO */
 
 /* STYLES FOR SOCIAL NETWORKINGS */
