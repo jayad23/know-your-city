@@ -270,6 +270,8 @@ div#social_heading{
   text-align: center;
   font-family: 'Courgette', cursive;
   padding:20px;
+  color: blue;
+  text-shadow: 2px 2px black;
 }
 
 div#social_icons{
