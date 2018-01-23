@@ -96,7 +96,8 @@ div #h_title {
 
 #h_title h3{
   display: inline;
-  color:greenyellow;
+  color:white;
+  text-shadow: 2px 2px #FF005E;
   font-size: 42px;
   font-family: 'Courgette', cursive;  
 }
