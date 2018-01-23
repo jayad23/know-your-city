@@ -142,8 +142,9 @@ div #h_menu{
   top:60px;
   left: 685px;
   color:white;
-  background-color: #FF005E;
+  background-color: yellowgreen;
   padding:20px;
+  border: dotted black;
   border-radius: 50%;
   font-weight: bolder;
 }
