@@ -282,6 +282,8 @@ div#social_heading{
   text-align: center;
   font-family: 'Courgette', cursive;
   padding:20px;
+  color: blue;
+  text-shadow: 2px 2px black;
 }
 
 div#social_icons{
@@ -352,10 +354,10 @@ h2#youtube{
 /* STYLES FOR MARQUEE */
 marquee{
   padding:7px;
-  color:black;
-  text-shadow: 1px 1px white;  
+  color:whitesmoke;
+  text-shadow: 1px 1px black;  
   font-family: 'Courgette', cursive;
-  background-color:greenyellow;
+  background-color: #FF005E;
   border-radius: 10px 0 8px 0;
   width:100%;
 }
